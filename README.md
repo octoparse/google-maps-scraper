@@ -1,16 +1,53 @@
-# Scrape Google Maps by Octoparse
+# Scrape Google Maps with Octoparse
 
-Just download the `GoogleMaps_Copy.otd` file provided, and import it into [Octoparse](https://www.octoparse.com) - a free automatic web scraping tool. 
+Extract business listings, leads, and reviews from Google Maps — no coding required. The [Octoparse Google Maps Scraper](https://www.octoparse.com/scraping-templates/google-maps-scraper) is an easy alternative to the Google Places API: while Google Maps caps each search at ~120 results, Octoparse uses **maps splitting** technology to divide large areas into mini-maps and visit each one at the optimal zoom level, consolidating up to **40,000 results per search term per country**.
 
-You can view detailed tutorial [here](https://www.octoparse.com/tutorial-7/scrape-data-on-google-maps).
+👉 **[Try the Google Maps Scraper templates online](https://www.octoparse.com/scraping-templates/google-maps-scraper)** — runs in the cloud, free trial included.
 
-The `GoogleMaps_Copy.otd` file provided is a sample crawler, and you can download the new version (7.1.2) of our [web crawler](https://www.octoparse.com/download) and use the free Google Maps template inside to scrape the data you want.
+## Templates
 
-## Data extracted in the sample crawler
-* Name
-* Rating
-* Category
-* Location
-* Description
-* Hours
-![result](https://www.octoparse.com/media/6306/googlemaps_png_1.png)
+Pick the template that matches your goal:
+
+| Template | Best for |
+|---|---|
+| Google Maps Advanced Scraper | Full listing data at scale with maps splitting |
+| Google Maps Email Finder | Enriching listings with email contacts |
+| Listings Scraper (by Keywords / by URLs) | Standard listing extraction |
+| Leads Scraper (by Keywords / by URLs) | Lead generation lists |
+| Reviews Scraper (Lite / Advanced / by Reviewers) | Review and reviewer data |
+
+## Data fields
+
+- **Business info** — title, category, description, price range, current status
+- **Contact** — phone, website, email, social media profiles
+- **Location** — address, city, state, country, plus code, latitude/longitude, place ID, Google ID
+- **Reputation** — rating, review count, review content, review time, reviewer info
+- **Operations** — opening hours, delivery options, popular times
+- **Media** — images, page URL
+
+## How to use
+
+1. Open the [Google Maps Scraper collection](https://www.octoparse.com/scraping-templates/google-maps-scraper) and choose a template.
+2. Enter your keywords, locations, or Google Maps URLs — batch up to 100,000 keyword/location combinations or 5,000 URLs.
+3. Run in the cloud: up to 20,000 results/hour, with built-in residential proxies protecting your IP.
+4. Export to Excel, CSV, JSON, HTML, Google Sheets, databases, or cloud storage — or schedule recurring runs to keep data fresh.
+
+Languages supported: English, French, Spanish, Italian, Korean, Japanese, Traditional Chinese.
+
+## For developers and AI agents
+
+- Automate runs and manage tasks with the [Octoparse CLI](https://github.com/octoparse/octoparse-cli) and OpenAPI.
+- Feed Google Maps data straight to your AI agents via the [Octoparse MCP server](https://github.com/octoparse/octoparse-mcp).
+- Connect results to Zapier, Google Sheets, and databases.
+
+## Resources
+
+- [Tutorial: scrape data on Google Maps](https://www.octoparse.com/tutorial-7/scrape-data-on-google-maps)
+- [Help Center](https://helpcenter.octoparse.com/)
+- Need it done for you? [Octoparse Data Service](https://www.octoparse.com/data-service)
+
+---
+
+### Legacy files
+
+`GoogleMaps_Copy.otd` and the GIF walkthroughs in this repo are a sample crawler for the legacy Octoparse 7 desktop client, kept for reference. For current capabilities, use the online templates linked above.
