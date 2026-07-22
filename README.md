@@ -45,9 +45,3 @@ Languages supported: English, French, Spanish, Italian, Korean, Japanese, Tradit
 - [Tutorial: scrape data on Google Maps](https://www.octoparse.com/tutorial-7/scrape-data-on-google-maps)
 - [Help Center](https://helpcenter.octoparse.com/)
 - Need it done for you? [Octoparse Data Service](https://www.octoparse.com/data-service)
-
----
-
-### Legacy files
-
-`GoogleMaps_Copy.otd` and the GIF walkthroughs in this repo are a sample crawler for the legacy Octoparse 7 desktop client, kept for reference. For current capabilities, use the online templates linked above.
