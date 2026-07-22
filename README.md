@@ -30,7 +30,7 @@ Pick the template that matches your goal:
 
 ## How to use
 
-1. Open the [Google Maps Scraper collection](https://www.octoparse.com/scraping-templates/google-maps-scraper) and choose a template.
+1. Open the [Google Maps Scraper collection](https://www.octoparse.com/template/collection/google-maps-scraper) and choose a template.
 2. Enter your keywords, locations, or Google Maps URLs — batch up to 100,000 keyword/location combinations or 5,000 URLs.
 3. Run in the cloud: up to 20,000 results/hour, with built-in residential proxies protecting your IP.
 4. Export to Excel, CSV, JSON, HTML, Google Sheets, databases, or cloud storage — or schedule recurring runs to keep data fresh.
