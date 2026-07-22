@@ -12,9 +12,12 @@ Pick the template that matches your goal:
 |---|---|
 | [Google Maps Advanced Scraper](https://www.octoparse.com/template/google-maps-advanced-scraper) | Full listing data at scale with maps splitting |
 | [Google Maps Email Finder](https://www.octoparse.com/template/google-maps-contact-scraper) | Enriching listings with email contacts |
-| Listings Scraper ([by Keywords](https://www.octoparse.com/template/google-maps-scraper-listing-page-by-keyword) / [by URLs](https://www.octoparse.com/template/google-maps-scraper-listing-page-by-url)) | Standard listing extraction |
-| Leads Scraper ([by Keywords](https://www.octoparse.com/template/google-maps-scraper-store-details-by-keyword) / [by URLs](https://www.octoparse.com/template/google-maps-scraper-store-details-by-url)) | Lead generation lists |
-| Reviews Scraper ([Advanced](https://www.octoparse.com/template/google-maps-review-scraper-cloud) / [by Reviewers](https://www.octoparse.com/template/google-maps-reviews-scraper-by-user-page)) | Review and reviewer data |
+| [Google Maps Listings Scraper (by Keywords)](https://www.octoparse.com/template/google-maps-scraper-listing-page-by-keyword) | Standard listing extraction from search keywords |
+| [Google Maps Listings Scraper (by URLs)](https://www.octoparse.com/template/google-maps-scraper-listing-page-by-url) | Standard listing extraction from Maps URLs |
+| [Google Maps Leads Scraper (by Keywords)](https://www.octoparse.com/template/google-maps-scraper-store-details-by-keyword) | Lead generation lists from search keywords |
+| [Google Maps Leads Scraper (by URLs)](https://www.octoparse.com/template/google-maps-scraper-store-details-by-url) | Lead generation lists from Maps URLs |
+| [Google Maps Reviews Scraper](https://www.octoparse.com/template/google-maps-review-scraper-cloud) | Review content, ratings, and review metadata |
+| [Google Maps Reviews Scraper (by Reviewers)](https://www.octoparse.com/template/google-maps-reviews-scraper-by-user-page) | Reviewer-focused review data |
 
 ## Data fields
 
