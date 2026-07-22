@@ -10,11 +10,11 @@ Pick the template that matches your goal:
 
 | Template | Best for |
 |---|---|
-| Google Maps Advanced Scraper | Full listing data at scale with maps splitting |
-| Google Maps Email Finder | Enriching listings with email contacts |
-| Listings Scraper (by Keywords / by URLs) | Standard listing extraction |
-| Leads Scraper (by Keywords / by URLs) | Lead generation lists |
-| Reviews Scraper (Lite / Advanced / by Reviewers) | Review and reviewer data |
+| [Google Maps Advanced Scraper](https://www.octoparse.com/template/google-maps-advanced-scraper) | Full listing data at scale with maps splitting |
+| [Google Maps Email Finder](https://www.octoparse.com/template/google-maps-contact-scraper) | Enriching listings with email contacts |
+| Listings Scraper ([by Keywords](https://www.octoparse.com/template/google-maps-scraper-listing-page-by-keyword) / [by URLs](https://www.octoparse.com/template/google-maps-scraper-listing-page-by-url)) | Standard listing extraction |
+| Leads Scraper ([by Keywords](https://www.octoparse.com/template/google-maps-scraper-store-details-by-keyword) / [by URLs](https://www.octoparse.com/template/google-maps-scraper-store-details-by-url)) | Lead generation lists |
+| Reviews Scraper ([Advanced](https://www.octoparse.com/template/google-maps-review-scraper-cloud) / [by Reviewers](https://www.octoparse.com/template/google-maps-reviews-scraper-by-user-page)) | Review and reviewer data |
 
 ## Data fields
 
@@ -42,6 +42,7 @@ Languages supported: English, French, Spanish, Italian, Korean, Japanese, Tradit
 
 ## Resources
 
-- [Tutorial: scrape data on Google Maps](https://www.octoparse.com/tutorial-7/scrape-data-on-google-maps)
-- [Help Center](https://helpcenter.octoparse.com/)
+- [Docs: build your first task](https://www.octoparse.com/docs/en/platform/build-your-first-task) · [API reference](https://www.octoparse.com/docs/en/api-reference)
+- [Video tutorials on YouTube](https://www.youtube.com/@Octoparsewebscraping)
+- [Help Center](https://helpcenter.octoparse.com/en)
 - Need it done for you? [Octoparse Data Service](https://www.octoparse.com/data-service)
